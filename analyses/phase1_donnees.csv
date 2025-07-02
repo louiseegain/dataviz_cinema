@@ -1,0 +1,11 @@
+﻿type_film,nb_seances,taux_occupation_moyen,spectateurs_total,spectateurs_moyen_par_seance
+Animation,411,65.7,19282,46.9
+Fiction française,547,58.5,22509,41.1
+Fiction étrangère,774,57.1,31446,40.6
+Comédie,322,50.6,11521,35.8
+Historique,149,50.4,5358,36.0
+Thriller,240,48.8,8262,34.4
+Biopic,177,46.6,5801,32.8
+Documentaire,607,46.0,19702,32.5
+Drame,411,45.9,13313,32.4
+Cinéma d'auteur,448,45.7,14352,32.0
