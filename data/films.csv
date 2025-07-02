@@ -1,0 +1,106 @@
+﻿film_id,titre,type_film,duree_minutes,version
+1,Les Parapluies de Cherbourg,Fiction française,88,VF
+2,La Famille Bélier,Fiction française,113,VF
+3,Huit Femmes,Fiction française,171,VF
+4,La Vie d'Adèle,Fiction française,160,VF
+5,Le Fabuleux Destin d'Amélie Poulain,Fiction française,96,VF
+6,Les Choristes,Fiction française,162,VF
+7,Polisse,Fiction française,176,VF
+8,Bienvenue chez les Ch'tis,Fiction française,138,VF
+9,OSS 117,Fiction française,120,VF
+10,Intouchables,Fiction française,105,VF
+11,La Haine,Fiction française,120,VF
+12,Taxi Driver,Fiction française,98,VF
+13,Welcome,Fiction française,130,VF
+14,Le Dîner de Cons,Fiction française,118,VF
+15,Les Visiteurs,Fiction française,143,VF
+16,The Shape of Water,Fiction étrangère,95,VO
+17,Blade Runner 2049,Fiction étrangère,158,VO
+18,Lost in Translation,Fiction étrangère,90,VO
+19,Drive,Fiction étrangère,95,VOSTFR
+20,The Grand Budapest Hotel,Fiction étrangère,133,VO
+21,Pulp Fiction,Fiction étrangère,131,VO
+22,Roma,Fiction étrangère,111,VO
+23,Citizen Kane,Fiction étrangère,172,VO
+24,The Godfather,Fiction étrangère,166,VO
+25,Midnight in Paris,Fiction étrangère,105,VO
+26,Moonlight,Fiction étrangère,166,VO
+27,Call Me by Your Name,Fiction étrangère,172,VO
+28,Parasite,Fiction étrangère,114,VOSTFR
+29,Vertigo,Fiction étrangère,125,VO
+30,La Dolce Vita,Fiction étrangère,112,VOSTFR
+31,Casablanca,Fiction étrangère,176,VO
+32,Marriage Story,Fiction étrangère,135,VOSTFR
+33,Nomadland,Fiction étrangère,143,VO
+34,Her,Fiction étrangère,116,VOSTFR
+35,The Tree of Life,Fiction étrangère,180,VO
+36,Grey Gardens,Documentaire,136,VF
+37,March of the Penguins,Documentaire,150,VF
+38,Demain,Documentaire,99,VF
+39,Free Solo,Documentaire,172,VF
+40,An Inconvenient Truth,Documentaire,134,VF
+41,Faces Places,Documentaire,152,VF
+42,Blackfish,Documentaire,86,VF
+43,Super Size Me,Documentaire,172,VO
+44,Citizenfour,Documentaire,167,VF
+45,Amy,Documentaire,140,VF
+46,Être et Avoir,Documentaire,177,VO
+47,Food Inc,Documentaire,149,VF
+48,Won't You Be My Neighbor?,Documentaire,165,VF
+49,Woodstock,Documentaire,149,VF
+50,The Act of Killing,Documentaire,132,VF
+51,Beauty and the Beast,Animation,152,VO
+52,Moana,Animation,147,VF
+53,Zootopia,Animation,124,VF
+54,Toy Story,Animation,157,VO
+55,Spirited Away,Animation,178,VF
+56,Coco,Animation,153,VF
+57,WALL-E,Animation,169,VF
+58,How to Train Your Dragon,Animation,106,VF
+59,The Lion King,Animation,139,VO
+60,Shrek,Animation,178,VF
+61,Force Majeure,Cinéma d'auteur,136,VOSTFR
+62,Only God Forgives,Cinéma d'auteur,141,VOSTFR
+63,Blue Is the Warmest Color,Cinéma d'auteur,100,VO
+64,Melancholia,Cinéma d'auteur,128,VO
+65,The Hunt,Cinéma d'auteur,160,VO
+66,The Square,Cinéma d'auteur,175,VO
+67,Uncle Boonmee,Cinéma d'auteur,93,VOSTFR
+68,Winter Sleep,Cinéma d'auteur,94,VO
+69,Leviathan,Cinéma d'auteur,170,VO
+70,Shame,Cinéma d'auteur,101,VOSTFR
+71,Fish Tank,Cinéma d'auteur,158,VO
+72,Alps,Cinéma d'auteur,137,VO
+73,The Nice Guys,Comédie,169,VF
+74,Zoolander,Comédie,137,VF
+75,In Bruges,Comédie,171,VF
+76,Birdman,Comédie,92,VF
+77,Anchorman,Comédie,98,VF
+78,The Menu,Comédie,153,VF
+79,What We Do in the Shadows,Comédie,108,VF
+80,Everything Everywhere All at Once,Comédie,94,VF
+81,Million Dollar Baby,Drame,97,VF
+82,Mystic River,Drame,86,VO
+83,Gravity,Drame,106,VF
+84,Crash,Drame,112,VO
+85,Room,Drame,106,VF
+86,Life of Pi,Drame,118,VO
+87,Little Miss Sunshine,Drame,143,VF
+88,Atonement,Drame,178,VO
+89,Inception,Drame,169,VF
+90,The Revenant,Drame,109,VF
+91,Zodiac,Thriller,159,VF
+92,Se7en,Thriller,180,VF
+93,Fight Club,Thriller,159,VF
+94,Taxi Driver,Thriller,105,VF
+95,Prisoners,Thriller,108,VF
+96,The Social Network,Thriller,171,VO
+97,Band of Brothers,Historique,100,VO
+98,Full Metal Jacket,Historique,116,VF
+99,Braveheart,Historique,164,VF
+100,Platoon,Historique,125,VO
+101,Gandhi,Biopic,170,VF
+102,Ray,Biopic,118,VF
+103,The Queen,Biopic,143,VF
+104,The Theory of Everything,Biopic,86,VF
+105,Steve Jobs,Biopic,94,VF
